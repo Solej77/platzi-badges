@@ -4,6 +4,8 @@ import "./styles/Badges.css";
 import confLogo from "../images/conf-logo.svg"
 
 import BadgesList from "../components/BadgesList";
+import PageLoading from "../components/PageLoading";
+import PageError from "../components/PageError";
 import api from "../api";
 
 class Badges extends React.Component {
@@ -36,11 +38,11 @@ class Badges extends React.Component {
     console.log("2/4. Render");
     console.log(this.state);
     if (this.state.loading) {
-      return "Loading";
+      return <PageLoading />;
     }
 
     if(this.state.error) {
-      return `Error: ${this.state.error.message}`;
+      return <PageError error={this.state.error} />
     }
 
     return (
