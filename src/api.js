@@ -34,6 +34,10 @@ const api = {
       // return [];
     },
     create(badge) {
+      // Error
+      // throw new Error('500: Server error');
+
+      // OK
       return callApi(`/badges`, {
         method: 'POST',
         body: JSON.stringify(badge),
