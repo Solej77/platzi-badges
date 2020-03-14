@@ -25,10 +25,10 @@ const api = {
   badges: {
     list() {
       // con datos
-      // return callApi('/badges');
+      return callApi('/badges');
       
       // Simulación de un error
-      throw new Error("500: Server error");
+      // throw new Error("500: Server error");
 
       // Simulacion de datos vacios
       // return [];
