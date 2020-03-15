@@ -1,15 +1,6 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Lady",
-      "lastName": "Gaga",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
       "firstName": "Major",
       "lastName": "Rodriguez",
@@ -449,33 +440,6 @@
       "twitter": "Solej77",
       "avatarUrl": "https://s.gravatar.com/avatar/6371f4360f3fd7260fce4b90deebbe73?s=80",
       "id": "f7z5bWn"
-    },
-    {
-      "firstName": "z",
-      "lastName": "z",
-      "email": "z",
-      "jobTitle": "z",
-      "twitter": "z",
-      "avatarUrl": "https://s.gravatar.com/avatar/fbade9e36a3f36d3d676c1b808451dd7?s=80",
-      "id": "iLNzV6-"
-    },
-    {
-      "firstName": "i",
-      "lastName": "i",
-      "email": "i",
-      "jobTitle": "i",
-      "twitter": "i",
-      "avatarUrl": "https://s.gravatar.com/avatar/865c0c0b4ab0e063e5caa3387c1a8741?s=80",
-      "id": "SJcL5bC"
-    },
-    {
-      "firstName": "z",
-      "lastName": "z",
-      "email": "z",
-      "jobTitle": "z",
-      "twitter": "z",
-      "avatarUrl": "https://s.gravatar.com/avatar/fbade9e36a3f36d3d676c1b808451dd7?s=80",
-      "id": "y8yt7qM"
     }
   ]
 }
