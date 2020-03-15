@@ -67,6 +67,7 @@ class BadgeNew extends Component {
       <div className="container">
         <div className="row">
           <div className="col-6">
+            <h1>New Attendant</h1>
             <Badge 
               firstName={this.state.form.firstName || 'FIRST_NAME'}
               lastName={this.state.form.lastName || 'LAST_NAME'}
@@ -87,7 +88,7 @@ class BadgeNew extends Component {
       </div>
 
     </>
-    )
+    );
   }
 }
 
